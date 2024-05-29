@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 
 export default function ButtonHierarchy() {
   return (
-    <div className="h-screen flex items-center justify-center bg-gradient-to-bl from-amber-800 via-cyan-900 to-amber-800">
+    <div className="h-screen flex items-center justify-center bg-gradient-to-tr from-slate-800 via-sky-600 to-slate-800">
       <div className="flex flex-row justify-center gap-8">
         <div className="w-[350px] h-[450px] bg-gray-100 rounded-md p-6 flex flex-col justify-end">
           <div className="flex flex-col justify-around items-center gap-4 bg-gray-100 rounded-md p-4 h-[80%] border-[1px] border-gray-150 shadow-md">

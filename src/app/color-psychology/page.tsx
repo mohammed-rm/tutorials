@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 
 export default function ColorPsychology() {
   return (
-    <div className="h-screen flex items-center justify-center bg-gradient-to-bl from-amber-800 via-cyan-900 to-amber-800">
+    <div className="h-screen flex items-center justify-center bg-gradient-to-br from-gray-400 via-blue-600 to-pink-300">
       <div className="flex flex-row justify-center gap-8">
         <div className="w-[350px] h-[400px] bg-gray-100 rounded-md p-6 flex flex-col justify-end">
           <div className="flex flex-col justify-around items-center gap-4 bg-gray-200 rounded-md p-4 h-1/2 border-[1px] border-blue-800 border-opacity-30 shadow-xl">
